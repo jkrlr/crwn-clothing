@@ -1,9 +1,3 @@
-<p align="center">
-    <a href="https://jkrlr-crwn-live.herokuapp.com">
-        <img src="https://svgshare.com/i/CUz.svg" width="16%">
-    </a>
-</p>
-
 <h1 align="center">
     Crwn Clothing
 </h1>
